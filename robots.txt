@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lamesaplumbingco.com/sitemap.xml
